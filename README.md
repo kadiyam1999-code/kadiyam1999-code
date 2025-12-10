@@ -7,7 +7,7 @@
 ## 📌 Featured Projects
 - **Retail SQL Analysis** – SQL joins, CTEs, window functions  
 - **Sales Power BI Dashboard** – Sales KPIs and trend insights  
-- **Excel Sales Dashboard** – (Coming soon)  
+-  
 
 ## 📫 Contact
 - https://www.linkedin.com/in/k-koti-brahmam-b3797b332
