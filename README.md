@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Kadiyam Koti  
 
-<!--
-**kadiyam1999-code/kadiyam1999-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 **Entry-Level Data Analyst**  
+💡 SQL | Power BI | Excel | Python Basics  
+🚀 Building projects to learn and grow  
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- **Retail SQL Analysis** – SQL joins, CTEs, window functions  
+- **Sales Power BI Dashboard** – Sales KPIs and trend insights  
+- **Excel Sales Dashboard** – (Coming soon)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- https://www.linkedin.com/in/k-koti-brahmam-b3797b332
+- Email: kadiyam1999@gmail.com
+
+---
